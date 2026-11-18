@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Repo stuff
+data/
+.DS_Store
+kaggle.json
+*.pt
+*.pth
