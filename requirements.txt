@@ -4,3 +4,4 @@ pillow
 requests
 jupyter
 opencv-python
+scikit-learn
